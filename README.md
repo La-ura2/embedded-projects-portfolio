@@ -6,7 +6,7 @@
 - **Files:** `LTspice_schematic.asc`, simulation results below
 - **Key learning:** Op-amp gain calculation, frequency response analysis
 
-![Simulation Result](voltage-measurement-circuit/simulation_results.png)
+
 
 ## 2. STM32F407 I2C Accelerometer Integration
 - **Microcontroller:** STM32F407G-DISC1
@@ -18,7 +18,4 @@
   - Converted to g-force values
 - **Files:** `main.c`, `i2c_config.c`, `accelerometer_driver.h`
 
-### Wiring Diagram
-![Wiring](stm32-accelerometer-i2c/wiring_diagram.png)
 
-### Sample Output
